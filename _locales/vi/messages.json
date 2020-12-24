@@ -1,0 +1,42 @@
+{
+	"name": {
+		"message": "Tư liệu - Make Voz Great Again",
+		"description": "Tên của phần mở rộng"
+	},
+	"desc": {
+		"message": "Dễ dàng tiếp cận phổ cập đại chúng chỉ với 1 cú nhấp chuột!"
+	},
+	"open_in_incognito": {
+		"message": "Mở tư liệU trong cửa sở ẩn danh"
+	},
+	"invalid_url": {
+		"message": "Đường dẫn không hợp lệ"
+	},
+	"no_link": {
+		"message": "Chưa bấm vào link nào hết?? Trưởng ban không thích điều này (╯°□°）╯︵ ┻━┻)"
+	},
+	"homework": {
+		"message": "Tư liệu"
+	},
+	"site": {
+		"message": "Trang"
+	},
+	"link": {
+		"message": "Đường dẫn"
+	},
+	"views": {
+		"message": "Lượt xem"
+	},
+	"copy": {
+		"message": "Chép"
+	},
+	"remove": {
+		"message": "Xoá"
+	},
+	"copy_to_clipboard": {
+		"message": "Sao chép"
+  },  
+  "copied_to_clipboard": {
+		"message": "Đã sao chép"
+	}
+}

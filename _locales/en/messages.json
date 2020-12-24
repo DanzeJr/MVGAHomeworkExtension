@@ -1,0 +1,42 @@
+{
+	"name": {
+		"message": "Homework - Make Voz Great Again",
+		"description": "Name of the extension"
+	},
+	"desc": {
+		"message": "Easy to solve your homework with just 1 click!"
+	},
+	"open_in_incognito": {
+		"message": "Open homework in incognito window"
+	},
+	"invalid_url": {
+		"message": "Invalid url"
+	},
+	"no_link": {
+		"message": "Still a virgin, aren't you? 😏"
+	},
+	"homework": {
+		"message": "Homework"
+	},
+	"site": {
+		"message": "Site"
+	},
+	"link": {
+		"message": "Link"
+	},
+	"views": {
+		"message": "Views"
+	},
+	"copy": {
+		"message": "Copy"
+	},
+	"remove": {
+		"message": "Remove"
+	},
+	"copy_to_clipboard": {
+		"message": "Copy to clipboard"
+	},
+	"copied_to_clipboard": {
+		"message": "Copied"
+	}
+}
